@@ -1,3 +1,3 @@
 # kokoa clone 2020
 
-git start!
+HTML & CSS are so much fun!
