@@ -1,4 +1,4 @@
 # kokoa clone 2020 update
 
-git start!
-today HTML ~
+git first start! good.
+today HTML
